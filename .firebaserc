@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "test-notification-297507": {
+      "hosting": {
+        "firebase-notification": [
+          "test-notification-297507"
+        ]
+      }
+    }
+  }
+}
